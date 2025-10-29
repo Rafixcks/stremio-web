@@ -6,7 +6,7 @@
     "private": true,
     "license": "gpl-2.0",
     "scripts": {
-        "start": "webpack serve --mode development",
+        "start": "node http_server.js",
         "start-prod": "webpack serve --mode production",
         "build": "webpack --mode production",
         "test": "jest",
