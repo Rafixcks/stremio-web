@@ -41,6 +41,9 @@ importers:
       eventemitter3:
         specifier: 5.0.1
         version: 5.0.1
+      express:
+        specifier: ^4.18.2
+        version: 4.21.2
       filter-invalid-dom-props:
         specifier: 3.0.1
         version: 3.0.1
